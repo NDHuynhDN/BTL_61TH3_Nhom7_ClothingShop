@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.btl_clothingshop">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label=""
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Design.NoActionBar">
+        <activity
+            android:name=".ProductDetails"
+            android:exported="false" />
+        <activity
+            android:name=".HomePage"
+            android:exported="false" />
+        <activity
+            android:name=".CustomerLogin"
+            android:exported="false" />
+        <activity
+            android:name=".SignupForm"
+            android:exported="false" />
+        <activity
+            android:name=".Owner.MaintainProducts"
+            android:exported="false" />
+        <activity
+            android:name=".Owner.OwnerCategory"
+            android:exported="false" />
+        <activity
+            android:name=".Owner.OwnerAddProduct"
+            android:exported="false" />
+        <activity
+            android:name=".Owner.OwnerLogin"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

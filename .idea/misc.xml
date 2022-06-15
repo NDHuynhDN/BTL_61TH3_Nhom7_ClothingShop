@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/bg_edt.xml" value="0.1635" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/bg_gradient.xml" value="0.177" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/bg_gradient2.xml" value="0.174" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/circle.xml" value="0.2115" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/cssbtn.xml" value="0.167" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/green_gradient.xml" value="0.177" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/header_gradient.xml" value="0.127" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.174" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/ic_nav_logout.xml" value="0.1915" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/pupel_gradient.xml" value="0.177" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/red_gradient.xml" value="0.177" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/yellow_gradient.xml" value="0.177" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/activity_change_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/activity_customer_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/activity_home_page.xml" value="0.22" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/activity_maintain_products.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/activity_owner_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/activity_owner_login.xml" value="0.2" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/activity_setting.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/activity_signup_form.xml" value="0.25" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/fragment_content_cart.xml" value="0.1" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/fragment_content_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/fragment_content_home_fragment.xml" value="0.1" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/fragment_setting.xml" value="0.25" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/layout/header.xml" value="0.25" />
+        <entry key="..\:/BTL_ClothingShop/app/src/main/res/menu/nav_bar.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

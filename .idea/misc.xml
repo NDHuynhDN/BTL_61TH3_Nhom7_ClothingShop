@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/BTL/BTL_61TH3_Nhom7_ClothingShop/app/src/main/res/layout/activity_home_page.xml" value="0.2" />
+        <entry key="..\:/BTL/BTL_61TH3_Nhom7_ClothingShop/app/src/main/res/layout/activity_maintain_products.xml" value="0.2" />
+        <entry key="..\:/BTL/BTL_61TH3_Nhom7_ClothingShop/app/src/main/res/layout/activity_owner_add_product.xml" value="0.2" />
+        <entry key="..\:/BTL/BTL_61TH3_Nhom7_ClothingShop/app/src/main/res/layout/activity_owner_category.xml" value="0.2" />
         <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/bg_edt.xml" value="0.1635" />
         <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/bg_gradient.xml" value="0.177" />
         <entry key="..\:/BTL_ClothingShop/app/src/main/res/drawable/bg_gradient2.xml" value="0.174" />

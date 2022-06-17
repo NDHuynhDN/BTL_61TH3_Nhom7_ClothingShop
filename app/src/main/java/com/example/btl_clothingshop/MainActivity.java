@@ -9,6 +9,8 @@ import android.view.animation.Animation;
 import android.widget.Button;
 
 import com.example.btl_clothingshop.Owner.OwnerLogin;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 public class MainActivity extends AppCompatActivity {
     Button openCustomer;
@@ -18,7 +20,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//
+        // Write a message to the database
+
 //
         openCustomer = (Button) findViewById(R.id.openCustomerLogin);
         openCustomer.setOnClickListener(new View.OnClickListener() {
